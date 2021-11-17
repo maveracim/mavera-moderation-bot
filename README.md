@@ -3,6 +3,8 @@
 
 > O sildiğim eski altyapıları bulursam Github'a tekrardan yükleyeceğim ve onları rezil edeceğim. O zaman yarrağımı yesinler :)
 
+> Ayrıca VDS alamayacak kadar fakir olup heroku kullanan arkadaşlar botçuyum diye gezmeyin sikecem ananızı.
+
 # BOTUN IÇINDEKILER
 > Fikrini Owsla'nın botlarından çalarak yaptığım kurulumlu moderasyon botumu sizlere sunacağım. 20-30 star alırsam eski guard ve database botlarımı da paylaşacağım.
 > Bot quick.db olarak hazırlandı, mongooseli yeni hazırladığım botlardan önce kullandığım botumdu.
