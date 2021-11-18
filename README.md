@@ -11,10 +11,6 @@
 > Bot quick.db olarak hazırlandı, mongooseli yeni hazırladığım botlardan önce kullandığım botumdu.
 > Türeme ve aptal arkadaşlar, bizler kodlar sizler çalarsınız. Aramızdaki tek fark bu...
 
-# ZAMANINDA ITLER GIBI ALTYAPI DILENENLER PATLIYOR
-![Görsel](https://cdn.discordapp.com/attachments/909161477980708885/910625966118817812/unknown.png)
-![Görsel2](https://cdn.discordapp.com/attachments/909161477980708885/910626538897158214/unknown.png)
-![Görsel3](https://cdn.discordapp.com/attachments/909161477980708885/910626493523189810/unknown.png)
-
+Herhangi bir ss atmayacağım prim kasmasınlar.
 
 # 10 STAR GELDIGI ZAMAN BOTLAR KAPIDA OLACAK, IYI CALMALAR!
