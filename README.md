@@ -4,7 +4,8 @@
 > O sildiğim eski altyapıları bulursam Github'a tekrardan yükleyeceğim ve onları rezil edeceğim. O zaman yarrağımı yesinler :)
 > Ayrıca VDS alamayacak kadar fakir olup heroku kullanan arkadaşlar botçuyum diye gezmeyin sikecem ananızı.
 
-> Zamanımda peşimde itler gibi altyapı dilenenlere selam olsun: https://cdn.discordapp.com/attachments/909161477980708885/910625966118817812/unknown.png
+> Zamanımda peşimde itler gibi altyapı dilenenlere selam olsun: 
+# https://cdn.discordapp.com/attachments/909161477980708885/910625966118817812/unknown.png
 
 # BOTUN IÇINDEKILER
 > Fikrini Owsla'nın botlarından çalarak yaptığım kurulumlu moderasyon botumu sizlere sunacağım. 20-30 star alırsam eski guard ve database botlarımı da paylaşacağım.
