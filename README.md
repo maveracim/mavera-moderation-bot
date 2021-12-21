@@ -7,4 +7,4 @@ https://github.com/Maveracim/Mavera-New-Bots (YENI BOTLAR)
 
 > Bu bot tamamen bana aittir. Kod veya botta bir sorun çıkarsa https://discord.gg/TJJ9sPCq3T linki ile privime gelerek beni etiketleyebilir ve destek alabilirsiniz!
 
-BOTLAR KURULUMLUDUR, .kurulum YAZARAK BOTLARI KURARSINIZ. 50 STARDA DATABASE/GUARD/ROLE-BACKUP BOTLARIMI PAYLASACAGIM! 70 STARDA ISE YENI MONGOOSELI VE DAHA SAGLAM BOTLARIMI PAYLASACAGIM! ARKADASLARINA PROJEYI PAYLASMAYI UNUTMAYIN ;)
+BOTLAR KURULUMLUDUR, .kurulum YAZARAK BOTLARI KURARSINIZ.
