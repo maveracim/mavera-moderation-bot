@@ -1,16 +1,8 @@
-# KÖPEKLERE SELAM OLSUN
-> Benim çok eskiden henüz tam js bilgim gelişmemişken çalıp editleyerek yaptığım ve 3 gün bile olmadan sildiğim bot ve altyapısını "sadece kod çalmayı bilen mavera" diye paylaşan 3-5 ezik arkadaşa selam olsun. Kendilerinin diğer paylaştığı botlara baktım eski botlarımın her şeyi ile aynı :D Github'da mavera-register diye paylaşmıştım ve çok kötü altyapılar diye sildiğim o botların kod ve komutlarını çalarak kendi botlarıymış gibi paylaşan ve star isteyen birkaç orospu evladı, ananızı götünden sikeyim. Bu altyapıyı da paylaşıyorum çünkü yeni geçtiğim sağlam mongooseli altyapımla devam ediyorum.
+# YENI BOTLARIM VE GECMEDEN ONCEKI BOTLARIM
+> Eski botlarımı 30 starda paylaşacağım demiştim ve paylaştım. Dediğim gibi fikrini Owsla'dan çalarak yaptığım elverişsiz fakat önceden sunuculara özel bot olarak kullandığım bu altyapı bazılarınıza cazip gelmiş olabilir. Kodlar ve bot çok kötü.
 
-Şunu da belirteyim, kolaysa şimdiki botlarıma ulaşın da paylaşın bakalım ;d;D
+> Yeni botlarımdaki mongoose ve her şeyi daha düzenli, elverişli bir bot olarak geliştirdim ama henüz piyasaya sürmedim çünkü Discord platformuna ara verdim.
 
-> O sildiğim eski altyapıları bulursam Github'a tekrardan yükleyeceğim ve onları rezil edeceğim. O zaman yarrağımı yesinler :)
-> Ayrıca VDS alamayacak kadar fakir olup heroku kullanan arkadaşlar botçuyum diye gezmeyin sikecem ananızı.
+> Bu bot tamamen bana aittir. Kod veya botta bir sorun çıkarsa https://discord.gg/TJJ9sPCq3T linki ile privime gelerek beni etiketleyebilir ve destek alabilirsiniz!
 
-# BOTUN IÇINDEKILER
-> Fikrini Owsla'nın botlarından çalarak yaptığım kurulumlu moderasyon botumu sizlere sunacağım. 20-30 star alırsam eski guard ve database botlarımı da paylaşacağım.
-> Bot quick.db olarak hazırlandı, mongooseli yeni hazırladığım botlardan önce kullandığım botumdu.
-> Türeme ve aptal arkadaşlar, bizler kodlar sizler çalarsınız. Aramızdaki tek fark bu...
-
-Herhangi bir ss atmayacağım prim kasmasınlar.
-
-# 30 STAR GELDIGI ZAMAN BOTLAR KAPIDA OLACAK, IYI CALMALAR!
+BOTLAR KURULUMLUDUR, .kurulum YAZARAK BOTLARI KURARSINIZ. 50 STARDA DATABASE/GUARD/ROLE-BACKUP BOTLARIMI PAYLASACAGIM! 70 STARDA ISE YENI MONGOOSELI VE DAHA SAGLAM BOTLARIMI PAYLASACAGIM! ARKADASLARINA PROJEYI PAYLASMAYI UNUTMAYIN ;)
