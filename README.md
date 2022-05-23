@@ -5,6 +5,6 @@ https://github.com/Maveracim/Mavera-New-Bots (YENI BOTLAR)
 
 > Yeni botlarımdaki mongoose ve her şeyi daha düzenli, elverişli bir bot olarak geliştirdim ama henüz piyasaya sürmedim çünkü Discord platformuna ara verdim.
 
-> Bu bot tamamen bana aittir. Kod veya botta bir sorun çıkarsa https://discord.gg/TJJ9sPCq3T linki ile privime gelerek beni etiketleyebilir ve destek alabilirsiniz!
+> Bu bot tamamen bana aittir. Kod veya botta bir sorun durumunda Mavera.#0001 hesabına yazarak destek alabilirsiniz!
 
 BOTLAR KURULUMLUDUR, .kurulum YAZARAK BOTLARI KURARSINIZ.
